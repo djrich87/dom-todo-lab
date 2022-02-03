@@ -33,4 +33,3 @@ const reBtn =document.querySelector('reset')
 // function handleClick(event) {
 //     event.target.style.color = 'blue'
 
-// }
