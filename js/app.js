@@ -21,15 +21,3 @@ btn.addEventListener('click', function(event){
 
 const reBtn =document.querySelector('reset')
   console.log(reBtn)
-
-
-
-
-
-
-
-//   document.querySelector('ul').addEventListener('click', handleClick)
-
-// function handleClick(event) {
-//     event.target.style.color = 'blue'
-
