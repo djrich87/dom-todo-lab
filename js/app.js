@@ -9,15 +9,11 @@ btn.addEventListener('click', function(event){
     const input = document.querySelector('input')
 
     toDoLi.textContent = input.value
-    // if (input.value = "") {
 
     document.querySelector('ul').appendChild(toDoLi)
     input.value = ""
-    // }
-
+    
     console.log(toDoLi)
 
 })
 
-const reBtn =document.querySelector('reset')
-  console.log(reBtn)
